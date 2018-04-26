@@ -1,6 +1,3 @@
-## Welcome to my Homepage
-<img style="float: right;" width="20%" src="/images/konrad.jpg">
-
 ### Current Place of Work
 Aalto University <br />
 Department of Mathematics and Systems Analysis <br />
