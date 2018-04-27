@@ -14,8 +14,8 @@ My research revolves around cryptographic security protocols. Concretely, I am i
 ### Affiliations
 Besides my position at Aalto University, my work is also supported by a grant from Microsoft Research, for which I am very grateful.
 
-### Upcoming Talks
-I will be giving a short talk on
+### Workshops and Conferences
+At the upcoming SKECH workshop in Bertinoro, I will be giving a short talk on how to use the framework developed by *Brzuska et al.* can be used in conjunction with F\* to combine implementation and security proof of a cryptographic protocol.
 
 ### Papers
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
