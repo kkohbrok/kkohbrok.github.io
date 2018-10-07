@@ -13,7 +13,7 @@ Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and
 My work is funded by a grant from Microsoft Research, for which I am very grateful.
 
 ### Workshops and Conferences
--
+- talk at Skech 2018 in Bertinoro. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/sketch2018.pdf)
 
 ### Papers
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
