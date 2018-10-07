@@ -18,4 +18,5 @@ My work is funded by a grant from Microsoft Research, for which I am very gratef
 ### Papers
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Konrad Kohbrok and Markulf Kohlweiss* <br />
-[Download](https://eprint.iacr.org/2018/306)
+Note that the version on ePrint is slightly outdated. Download a pre-print of
+our submission to submission to AsiaCrypt [here](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/papers/state_sepration_proofs_asiacrypt2018.pdf).
