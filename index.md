@@ -14,8 +14,8 @@ My work is funded by a grant from Microsoft Research, for which I am very gratef
 
 ### Workshops and Conferences
 - "State Separation for Code-Based Game-Playing Proofs" talk at AsiaCrypt 2018 in Brisbane. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/asiacrypt2018.pdf)
-- "An Introduction to Using F\* in Cryptographic Proofs" talk at Skech 2018 in Bertinoro. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/sketch2018.pdf)
 - "Using Types in Composed Cryptographic Proofs" talk at EUTypes 2018 in Aarhus. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/eutypes2018.pdf)
+- "An Introduction to Using F\* in Cryptographic Proofs" talk at Skech 2018 in Bertinoro. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/sketch2018.pdf)
 
 ### Papers
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
