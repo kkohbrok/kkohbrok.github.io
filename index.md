@@ -25,7 +25,7 @@ My work is funded by a grant from Microsoft Research, for which I am very gratef
 ### Papers
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Konrad Kohbrok and Markulf Kohlweiss* <br />
-[ePrint](https://eprint.iacr.org/2018/306) (Published at AsiaCrypt 2018** <br />
+[ePrint](https://eprint.iacr.org/2018/306) (Published at AsiaCrypt 2018) <br />
 
 Efficient Post-Compromise Security Beyond One Group <br />
 *Cas Cremers and Britta Hale and Konrad Kohbrok* <br />
