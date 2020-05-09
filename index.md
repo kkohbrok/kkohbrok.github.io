@@ -9,10 +9,12 @@ For more contact information see [here](https://math.aalto.fi/en/people/konrad.k
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://www.cryptulf.com/), I work on bridging the gap between security proofs of composed security protocols and their implementations. I have been working mostly with F\* and the proof approach used in the [miTLS project](https://www.mitls.org/). Currently, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
 
+<!---
 ### Upcoming Events
 For anyone interested in the "State-Separated Proofs" framework (see the Paper
 below), there is a a workshop ([WoDUP](http://www.chrisbrzuska.de/WoDUP.html))
 coming up on the 9th of May. It is conveniently colocated with EuroCrypt!
+--->
 
 ### Affiliations
 My work is funded by a grant from Microsoft Research, for which I am very grateful.
