@@ -1,10 +1,7 @@
 ## Work and Research
 
-### Contact and Current Place of Work
-Aalto University <br />
-Department of Mathematics and Systems Analysis <br />
-Room Y250c <br />
-For more contact information see [here](https://math.aalto.fi/en/people/konrad.kohbrok). <br />
+### Current Place of Work
+I'm currently working at [Wire](https://wire.com), where I'm helping with the transition to Messaging Layer Security as main protocol and with the adoption of a federated architecture. In my spare cycles, I'm still working on my PhD and following my research interests.
 
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://www.cryptulf.com/), I work on bridging the gap between security proofs of composed security protocols and their implementations. I have been working mostly with F\* and the proof approach used in the [miTLS project](https://www.mitls.org/). Currently, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
@@ -15,9 +12,6 @@ For anyone interested in the "State-Separated Proofs" framework (see the Paper
 below), there is a a workshop ([WoDUP](http://www.chrisbrzuska.de/WoDUP.html))
 coming up on the 9th of May. It is conveniently colocated with EuroCrypt!
 --->
-
-### Affiliations
-My work is funded by a grant from Microsoft Research, for which I am very grateful.
 
 ### Workshops and Conferences
 - "State Separation for Code-Based Game-Playing Proofs" talk at AsiaCrypt 2018 in Brisbane. [Slides](https://github.com/kkohbrok/kkohbrok.github.io/raw/master/talks/asiacrypt2018.pdf)
