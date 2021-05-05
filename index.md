@@ -1,10 +1,14 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working at [Wire](https://wire.com), where I'm helping with the transition to Messaging Layer Security as main protocol and with the adoption of a federated architecture. In my spare cycles, I'm working on my PhD and am still following my research interests.
+I'm currently working at [Wire](https://wire.com), where I'm helping with the transition to Messaging Layer Security as main protocol and with the adoption of a federated architecture. In particular, together with [Raphael](https://github.com/raphaelrobert) and [Franziskus](https://github.com/franziskuskiefer), I work on [OpenMLS](https://github.com/openmls/openmls), an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
 
 ### Research Interests
-Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations. I have been working mostly with F\* and the proof approach used in the [miTLS project](https://www.mitls.org/). Currently, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
+Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations.
+
+In particular, I work with the State-Separating Proofs (SSP) methodology (see [here](https://eprint.iacr.org/2018/306) for details), which can help with building modular security definitions and proofs, as well as with their visualization.
+
+Currently, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
 
 <!---
 ### Upcoming Events
