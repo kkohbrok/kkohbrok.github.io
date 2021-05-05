@@ -8,7 +8,7 @@ Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and
 
 In particular, I work with the State-Separating Proofs (SSP) methodology (see [here](https://eprint.iacr.org/2018/306) for details), which can help with building modular security definitions and proofs, as well as with their visualization.
 
-Currently, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
+On the more applied side, I am involved in the [MLS working group](https://datatracker.ietf.org/wg/mls/about/) at the IETF, where together with other participants from academia and industry, I work on the design of a modern secure messaging protocol that supports large groups.
 
 <!---
 ### Upcoming Events
