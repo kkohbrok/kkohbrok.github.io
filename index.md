@@ -25,4 +25,16 @@ State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
 
 Efficient Post-Compromise Security Beyond One Group <br />
 *Cas Cremers and Britta Hale and Konrad Kohbrok* <br />
-[ePrint](https://eprint.iacr.org/2019/477)
+[ePrint](https://eprint.iacr.org/2019/477) (to be published in a revised and extended version at USENIX Security '21) <br />
+
+Bringing State-Separating Proofs to EasyCrypt - A Security Proof for Cryptobox <br />
+*François Dupressoir and Konrad Kohbrok and Sabine Oechsner* <br />
+[ePrint](https://eprint.iacr.org/2021/326) <br />
+
+Cryptographic Security of the MLS RFC, Draft 11 <br />
+*Chris Brzuska and Eric Cornelissen and Konrad Kohbrok* <br />
+[ePrint](https://eprint.iacr.org/2021/137) <br />
+
+Key-schedule Security for the TLS 1.3 Standard <br />
+*Chris Brzuska and Antoine Delignat-Lavaud and Christoph Egger and Cédric Fournet and Konrad Kohbrok and Markulf Kohlweiss* <br />
+[ePrint](https://eprint.iacr.org/2021/467)
