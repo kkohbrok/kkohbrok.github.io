@@ -1,7 +1,7 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working on the development of [OpenMLS](https://github.com/openmls/openmls), where together with [Raphael](https://github.com/raphaelrobert) and [Franziskus](https://github.com/franziskuskiefer) we are building an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
+I'm currently working on the development of [OpenMLS](https://github.com/openmls/openmls), where [Raphael](https://github.com/raphaelrobert), [Franziskus](https://github.com/franziskuskiefer) and I are building an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
 
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations.
