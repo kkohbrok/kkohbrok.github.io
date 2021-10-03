@@ -1,7 +1,7 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working at [Wire](https://wire.com), where I'm helping with the transition to Messaging Layer Security as main protocol and with the adoption of a federated architecture. In particular, together with [Raphael](https://github.com/raphaelrobert) and [Franziskus](https://github.com/franziskuskiefer), I work on [OpenMLS](https://github.com/openmls/openmls), an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
+I'm currently working on the development of [OpenMLS](https://github.com/openmls/openmls), where together with [Raphael](https://github.com/raphaelrobert) and [Franziskus](https://github.com/franziskuskiefer) we are building an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
 
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations.
@@ -27,9 +27,9 @@ State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Konrad Kohbrok and Markulf Kohlweiss* <br />
 [ePrint](https://eprint.iacr.org/2018/306) (Published at AsiaCrypt 2018) <br />
 
-Efficient Post-Compromise Security Beyond One Group <br />
+The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter <br />
 *Cas Cremers and Britta Hale and Konrad Kohbrok* <br />
-[ePrint](https://eprint.iacr.org/2019/477) (to be published in a revised and extended version at USENIX Security '21) <br />
+[ePrint](https://eprint.iacr.org/2019/477) (Extended abstract published at USENIX Security '21) <br />
 
 Bringing State-Separating Proofs to EasyCrypt - A Security Proof for Cryptobox <br />
 *François Dupressoir and Konrad Kohbrok and Sabine Oechsner* <br />
