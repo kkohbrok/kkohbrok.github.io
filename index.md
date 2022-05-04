@@ -1,10 +1,12 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working on the development of [OpenMLS](https://github.com/openmls/openmls), where [Raphael](https://github.com/raphaelrobert), [Franziskus](https://github.com/franziskuskiefer) and I are building an open-source implementation of MLS in Rust. In my spare cycles, I'm working on my PhD and am still following my research interests.
+I'm currently working at [Phoenix R&D](https://phnx.im), where [Raphael](https://twitter.com/raphaelrobert) and I are working on security and privacy enhancing technologies in the secure messaging space.
+
+Together with [Franziskus](https://github.com/franziskuskiefer), we are also maintaing [OpenMLS](https://openmls.tech), a free and open source implementation of the messaging layer security protocol written in rust.
 
 ### Research Interests
-Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations.
+Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations as part of my PhD.
 
 In particular, I work with the State-Separating Proofs (SSP) methodology (see [here](https://eprint.iacr.org/2018/306) for details), which can help with building modular security definitions and proofs, as well as with their visualization.
 
@@ -21,11 +23,11 @@ The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects M
 
 Bringing State-Separating Proofs to EasyCrypt - A Security Proof for Cryptobox <br />
 *François Dupressoir and Konrad Kohbrok and Sabine Oechsner* <br />
-[ePrint](https://eprint.iacr.org/2021/326) <br />
+[ePrint](https://eprint.iacr.org/2021/326) (Accepted for publication at CSF 2022) <br />
 
 Cryptographic Security of the MLS RFC, Draft 11 <br />
 *Chris Brzuska and Eric Cornelissen and Konrad Kohbrok* <br />
-[ePrint](https://eprint.iacr.org/2021/137) <br />
+[ePrint](https://eprint.iacr.org/2021/137) (Published at IEEE S&P 2022) <br />
 
 Key-schedule Security for the TLS 1.3 Standard <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Christoph Egger and Cédric Fournet and Konrad Kohbrok and Markulf Kohlweiss* <br />
