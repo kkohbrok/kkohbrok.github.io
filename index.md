@@ -1,9 +1,9 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working at [Phoenix R&D](https://phnx.im), where [Raphael](https://twitter.com/raphaelrobert) and I are working on security and privacy enhancing technologies in the secure messaging space.
+I'm currently working at [Phoenix R&D](https://phnx.im), where [Raphael](https://twitter.com/raphaelrobert), [Julian](https://twitter.com/mairjulian) and I are working on security and privacy enhancing technologies in the secure messaging space.
 
-Together with [Franziskus](https://github.com/franziskuskiefer), we are also maintaing [OpenMLS](https://openmls.tech), a free and open source implementation of the messaging layer security protocol written in rust.
+Together with our friends at [Cryspen](https://github.com/franziskuskiefer), we are also maintaing [OpenMLS](https://openmls.tech), a free and open source implementation of the messaging layer security protocol written in rust.
 
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/), I work on bridging the gap between security proofs of composed security protocols and their implementations as part of my PhD.
