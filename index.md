@@ -29,8 +29,8 @@ Cryptographic Security of the MLS RFC, Draft 11 <br />
 
 Key-schedule Security for the TLS 1.3 Standard <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Christoph Egger and Cédric Fournet and Konrad Kohbrok and Markulf Kohlweiss* <br />
-[ePrint](https://eprint.iacr.org/2021/467) (Published at AsiaCrypt 2022)
+[ePrint](https://eprint.iacr.org/2021/467) (Published at AsiaCrypt 2022) <br />
 
 State-Separating Proofs and Their Applications (Article-based PhD Thesis) <br />
-*Konrad Kohbrok*
+*Konrad Kohbrok* <br />
 [Aalto Doc](https://aaltodoc.aalto.fi/handle/123456789/122126)
