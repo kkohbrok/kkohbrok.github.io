@@ -10,7 +10,7 @@ Research-wise, I'm interested in cryptographic protocols for real-world applicat
 
 Besides the academic treatment of such protocols, I'm also interested in protocol design and implementations (with a focus on Rust). More concretely, I'm actively involved in the [MLS](https://datatracker.ietf.org/wg/mls/about/) and [MIMI](https://datatracker.ietf.org/wg/mimi/about/) working groups at the IETF.
 
-### Papers
+### Publications
 State-Separating Proofs: A Reduction Methodology for Real-World Protocols <br />
 *Chris Brzuska and Antoine Delignat-Lavaud and Konrad Kohbrok and Markulf Kohlweiss* <br />
 [ePrint](https://eprint.iacr.org/2018/306) (Published at AsiaCrypt 2018) <br />
