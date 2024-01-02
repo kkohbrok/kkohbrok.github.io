@@ -1,7 +1,7 @@
 ## Work and Research
 
 ### Current Place of Work
-I'm currently working at [Phoenix R&D](https://phnx.im), where [Raphael](https://twitter.com/raphaelrobert), [Julian](https://twitter.com/mairjulian) and I are working on security and privacy enhancing technologies in the secure messaging space.
+I'm currently working at [Phoenix R&D](https://phnx.im), where [Raphael](https://mastodon.social/@raphaelrobert), [Julian](https://chaos.social/@cityroler) and I are working on security and privacy enhancing technologies in the secure messaging space.
 
 Together with our friends at [Cryspen](https://github.com/franziskuskiefer), we are also maintaing [OpenMLS](https://openmls.tech), a free and open source implementation of the messaging layer security protocol written in rust.
 
